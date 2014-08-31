@@ -1,0 +1,58 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<!--#include virtual="/style.html" -->
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.75 [en] (X11; U; HP-UX B.11.00 9000/785) [Netscape]">
+   <title>Welcome to shroop.net!</title>
+<meta name="verify-v1" content="ExAhHNx8ylcLNSrD8AMu/15HZN8JjF8No5NT7m83pEs=" />
+</head>
+
+<body>
+
+<center>
+<h1>
+Welcome to shroop.net!</h1></center>
+
+<center>
+<h2>
+Here's what's available...</h2></center>
+
+<center><h3>Home Pages:</h3></center>
+<center>
+<a href="sharon">Sharon Hopkins Rauenzahn</a>
+</center>
+<center>
+<a href="http://www.linkedin.com/pub/rich-rauenzahn/0/359/a16">Rich Rauenzahn</a>
+</center>
+
+<center><h3>Our Church:</h3></center>
+<center> <a href="http://english.nlnc.org/">New Life Nazarene Church</a> </center>
+
+<center><h3>Oddly Enough:</h3></center>
+<center><a href="http://www.wall.org">The Wall Nuthouse</a></center>
+<center><a href="http://www.flactem.com">The Enigphlegmatic Flactem</a></center>
+</center>
+
+<center><h3>Discounts:</h3></center>
+<center> <a href="http://www.hpdirect.com/deals/friendsandfamily">HP Friends & Family Discount</a> </center>
+
+
+<center><h3>Restricted:</h3></center>
+<center>
+<a href="/restr/">Restricted Area</a>
+</center>
+
+<!--#include virtual="/ga.js" -->
+</body>
+<br>
+<br>
+
+<!--
+<font class=hideme>
+<a href="/st.html">Nothing to see here...</a>
+</font>
+-->
+
+</html>
+

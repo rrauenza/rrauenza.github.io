@@ -31,8 +31,10 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(https://farm4.staticflickr.com/3885/14667884666_540905d2f4_h.jpg) no-repeat center center;
     background-size: cover;
+    background-position: center bottom;
+    height: 700px;
 }
 
 .intro-message {
@@ -157,7 +159,7 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 10px 0;
     background-color: #f8f8f8;
 }
 

@@ -29,14 +29,14 @@ h6 {
   text-align: center;
   color: #f8f8f8;
   background: url(https://farm4.staticflickr.com/3885/14667884666_540905d2f4_h.jpg) no-repeat center center;
-  background-size: cover;
+  background-size: 700;
   background-position: center bottom;
   height: 700;
 }
 .intro-message {
   position: relative;
-  padding-top: 20%;
-  padding-bottom: 20%;
+  padding-top: 350px;
+  padding-bottom: 350px;
 }
 .intro-message > h1 {
   margin: 0;
@@ -152,4 +152,7 @@ footer {
 }
 p.copyright {
   margin: 15px 0 0;
+}
+.hideme {
+  visibility: hidden;
 }

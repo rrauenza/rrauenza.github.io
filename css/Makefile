@@ -1,3 +1,4 @@
 
 styles.css: styles.less
-	lessc styles.less styles.css
+	lessc -l styles.less styles.css
+	lessc -x styles.less styles.css
